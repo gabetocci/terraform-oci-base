@@ -122,7 +122,7 @@ variable "bastion_enabled" {
 
 variable "bastion_image_id" {
   description = "image id to use for bastion."
-  default     = "NONE"
+  default     = "Autonomous"
   type        = string
 }
 
